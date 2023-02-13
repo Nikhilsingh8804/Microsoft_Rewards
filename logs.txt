@@ -1,0 +1,8 @@
+{
+    "Your Email": {
+        "Last check": "Unknown error !",
+        "Today's points": 0,
+        "Points": 0
+    },
+    "Elapsed time": "00:00:24"
+}
